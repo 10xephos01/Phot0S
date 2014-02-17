@@ -1,4 +1,3 @@
-
 username = {"a","10xephos01", "okguess", "admin", "user", "guest"} --[[This is the usernames]]--
 password = {"a","estee", "password", "admin", "user", "guest"} --[[This is the passwords for the users]]--
 term.setBackgroundColor(colors.white)
